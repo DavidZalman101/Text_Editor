@@ -1,5 +1,5 @@
 # KILO - Text Editor
-##A basic text editor with no depenencies.
+## A basic text editor with no depenencies.
 **Make use of the Makefile for an easy build**
 ```sh
 Make
