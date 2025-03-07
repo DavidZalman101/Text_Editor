@@ -15,4 +15,6 @@ Use the arrow keys for moving around, and perhaps write your favorite piece of c
 ```sh
 ./kilo main.c
 ```
-![Screenshot of the text editor](https://github.com/DavidZalman101/Text_Editor/blob/master/Kilo-example.png)
+![Screenshot of the text editor](https://github.com/DavidZalman101/Text_Editor/blob/master/Kilo-example.png)  
+## Credits [](https://viewsourcecode.org/snaptoken/kilo/index.html)
+
