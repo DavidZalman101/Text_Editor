@@ -9,8 +9,8 @@ Make
 ./kilo
 ```
 ![Screenshot of the text editor with a new file](https://github.com/DavidZalman101/Text_Editor/blob/master/Kilo-example-new_file.png)
-Make use of the prompt to know how to save/quit/find.
-Use the arrow keys for moving around, and perhaps write your favorite piece of code!
+Make use of the prompt to know how to save/quit/find.  
+Use the arrow keys for moving around, and perhaps write your favorite piece of code!  
 **Open the text editor - existing file**
 ```sh
 ./kilo main.c
